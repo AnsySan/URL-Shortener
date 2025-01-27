@@ -4,7 +4,7 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0"
 }
 
-group = "com.clone.twitter"
+group = "com.AnsySan"
 version = "1.0"
 java.sourceCompatibility = JavaVersion.VERSION_17
 
